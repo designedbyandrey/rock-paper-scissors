@@ -1,0 +1,13 @@
+.score-wrap {
+    display: flex;
+    gap: 8px;
+}
+
+.score {
+    padding: 8px;
+    background-color: beige;
+}
+
+#results {
+    margin-top: 16px;
+}
